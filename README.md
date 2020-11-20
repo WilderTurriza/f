@@ -1,8 +1,7 @@
 
 <html> <body> <img src="https://github.com/WilderTurriza/f/blob/main/Documentos/ENT%C3%89RATE%20(1).png" width="170" height="170"  align="left"/>
 <H1> Entérate </H1>
-<p style="text-align:justify;"> El proyecto "Entérate" es una herramienta que proporcionará información respecto a las distintas carreras relacionadas con la informática y computación ofertadas por la UADY, con el fin de poner al alcance de cualquier futuro aspirante de dicha universidad un contenido que le permita diferenciar una carrera de otra.</p>
-<Br></Br></body></html>
+<p style="text-align:justify;"> El proyecto "Entérate" es una herramienta que proporcionará información respecto a las distintas carreras relacionadas con la informática y computación ofertadas por la UADY, con el fin de poner al alcance de cualquier futuro aspirante de dicha universidad un contenido que le permita diferenciar una carrera de otra.</p> <Br></Br></body></html>
 
 ## Índice
   - [Objetivos](https://github.com/WilderTurriza/f/blob/main/Documentos/Objetivos.md)
